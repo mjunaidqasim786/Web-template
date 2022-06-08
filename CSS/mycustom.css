@@ -1,0 +1,58 @@
+.div1{
+    background-image: url("/essets/backgroungimg.jpg");
+}
+.div2{
+    background-image: url("/essets/backgroundimg2.jpg");
+}
+.div3{
+    background-image: url("/essets/backgroundimg4.jpg");
+}
+.div4{
+    background-image: url("/essets/backgroungimg3.jpg");
+}
+.centercustom{
+    margin-left: auto;
+}
+.colorcustom{
+color: white !important;
+}
+.btn:hover{
+ background-color: black;
+}
+.centerme{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.custommargin{
+    margin-top: 5%;
+}
+.customimg
+{
+ margin-left: 40%;
+}
+
+.custombcg{
+    background-image: linear-gradient(to right bottom, #0156d6, #695bc2, #8766b0, #9675a2, #998698); 
+}
+.custombcg1{
+    background-image: linear-gradient(to right bottom, #ec3e9a, #bc3787, #8e2f71, #642558, #3f1a3d);
+}
+.custombcg2{
+    background-image: linear-gradient(to left bottom, #fba5d2, #d77eb5, #b45999, #8f337f, #6b0466);
+}
+.custombcg3{
+    background-image: linear-gradient(to left bottom, #721afb, #9f32f1, #bd4de9, #d367e3, #e383df);}
+
+.custommargin1{
+   margin-right: 17%;
+}
+input.transparent-input{
+    background-color:transparent !important;
+    border:none !important;
+ }
+ .custommargin2{
+     margin-left:20%;
+ }
+ 
