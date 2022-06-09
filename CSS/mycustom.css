@@ -30,7 +30,7 @@ color: white !important;
 }
 .customimg
 {
- margin-left: 40%;
+ margin: auto;
 }
 
 .custombcg{
@@ -45,14 +45,13 @@ color: white !important;
 .custombcg3{
     background-image: linear-gradient(to left bottom, #721afb, #9f32f1, #bd4de9, #d367e3, #e383df);}
 
-.custommargin1{
-   margin-right: 17%;
-}
+
+
 input.transparent-input{
     background-color:transparent !important;
     border:none !important;
  }
  .custommargin2{
-     margin-left:20%;
+   margin-left: 20%;
  }
  
